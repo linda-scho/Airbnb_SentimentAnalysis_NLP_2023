@@ -1,13 +1,15 @@
 # Airbnb_SentimentAnalysis_NLP_2024
-This repository contains the code files and report for the project " Enhancing Malaria Diagnosis: Comparative Analysis of CNN and SVM Models for P. vivax Cell Detection" developed as a final project in the course Data Mining, Machine Learning, and Deep Learning at the Copenhagen Business School.
+This repository contains the code files and report for the project "Unleashing the Power of Large Language Models: GPT-3.5 and BERT versus Traditional Models for Sentiment Analysis
+in Airbnb Review" developed as a final project in the course Natural Language Processing and Text Analytics at the Copenhagen Business School.
 
 ## Description
-* **Project**: The project focuses on the detection of P. vivax malaria-infected cells. Using the Broad Bioimage Benchmark Collection (BBBC) dataset of over 85.000 blood smear images, different classification models were developed and compared. As hypothesized, the Support Vector Machines (SVM) model was outperformed by the two Convolutional Neural Networks (CNN) models. The highest accuracy was demonstrated by CNN1 with 0.98.
+* **Project**: This project developed and compares two LLM models (BERT and GPT-3.5) with traditional models (Logistic Regression and Naïve Bayes)
+for binary sentiment analysis based on scraped Airbnb review comments.Results show that GPT-3.5 has the highest macro F1 score of about 0.906.
 
-* **Course**: The course aimed to teach students about the fundamental challenges of machine learning, such as model selection and model complexity, and the underlying mathematical relationships within and across machine learning algorithms. Students were also taught to characterize the strengths and weaknesses of various machine learning approaches and algorithms, design, implement, analyze, and apply different data mining, machine learning techniques, and deep learning techniques for big/business datasets in organizational contexts and for real-world applications. The course also covered the application areas, trends, and challenges in data mining and machine learning. The students were required to complete a project and report that reflected on their critical awareness of methodological choices and written skills to accepted academic standards.
-
+* **Course**: The course taught students about the phenomena of text analytics and Natural Language Processing, including fundamental concepts, techniques and methods of Natural Language Processing. Students learned to analyze and apply different text analytics techniques for big/business datasets in organizational contexts, and understand the linkages between business intelligence and text analytics and the potential benefits for organizations. The course also covered the application areas, trends, and challenges in text analysis, and students were required to exhibit deeper knowledge and understanding of the topics as part of a project, with the report reflecting critical awareness of methodological choices and written to accepted academic standards.
+  
 ## Authors
-Konstantin Kleffke, Linda Schombach and Mira Metzger
+Konstantin Kleffke, Linda Schombach, Julius Wirbel and Yile Huang
 
 ## Folder Structure
 
@@ -23,6 +25,7 @@ The folders are structured as follows:
 │   ├── 5_Script_CNN.ipynb
 │   └── 6_Script_SVM.ipynb
 ├── README.md
+├── Data
 └── Report.pdf
 ```
 
