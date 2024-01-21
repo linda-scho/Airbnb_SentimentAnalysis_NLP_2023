@@ -25,7 +25,6 @@ The folders are structured as follows:
 │   ├── 5_Script_CNN.ipynb
 │   └── 6_Script_SVM.ipynb
 ├── README.md
-├── Data
 └── Report.pdf
 ```
 
