@@ -16,7 +16,6 @@ Konstantin Kleffke, Linda Schombach, Julius Wirbel and Yile Huang
 The folders are structured as follows:
 
 ```bash
-.
 ├── Code
 │   ├── 1_Script_Preprocessing_JoinDatasets.ipynb
 │   ├── 2_Script_Preprocessing.ipynb
